@@ -1,2 +1,5 @@
 bla bla bla
 Nie nie nie moj drogi moj kod buahahaha
+commit 1
+commit 2
+commit 3
